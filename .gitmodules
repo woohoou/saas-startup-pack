@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/woohoou/saas-startup-pack-backend
+[submodule "app"]
+	path = app
+	url = https://github.com/woohoou/saas-startup-pack-app
